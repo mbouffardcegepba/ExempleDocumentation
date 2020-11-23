@@ -1,8 +1,8 @@
-# Project de Documentation
+# Projet de Documentation
 
 Ceci est un exemple de projet Visual Studio contenant de la documentation générée.
 
-## Pré-requis:
+## Prérequis:
 
 * Visual Studio
 
