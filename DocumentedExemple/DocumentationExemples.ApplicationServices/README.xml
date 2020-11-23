@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DocumentationExemples.ApplicationServices</name>
+    </assembly>
+    <members>
+        <member name="T:DocumentationExemples.ApplicationServices.Class1">
+            <summary>
+            Cette classe est utilisée pour un 
+            exemple de documentation.
+            <code>
+                Class1 maClasse = new Class1();
+                maClasse.UtiliserFonction1(1, 2 ,3);
+            </code>
+            </summary>
+        </member>
+        <member name="M:DocumentationExemples.ApplicationServices.Class1.UtiliserFonction1(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Cette fonction est simplement présente pour donner un
+            exemple.
+            </summary>
+            <param name="param1">Le premier paramètre</param>
+            <param name="param2">Le deuxième paramètre</param>
+            <param name="param3">Le troisième paramètre</param>
+        </member>
+    </members>
+</doc>
