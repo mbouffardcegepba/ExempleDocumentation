@@ -10,5 +10,5 @@ Ceci est un exemple de projet Visual Studio contenant de la documentation géné
 
 Ici, vous pourrez trouver la documnentation nécessaire pour comprendre la programmation.
 
-* [Projet UI](DocumentedExemple/DocumentedExemple/README.MD)
+* [Projet UI](DocumentedExemple/DocumentedExemple/README.md)
 * [Projet Application Service](DocumentedExemple/DocumentationExemples.ApplicationServices/README.md)
